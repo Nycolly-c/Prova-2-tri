@@ -13,8 +13,8 @@
   
   cabecalho-imagem{
 width: 30%;
-  }
-  cabecalho-lita-item{
+}
+.cabecalho-lita-item{
 display: inline-block;
 margin: 16px 0;
 font-size: 20px;
