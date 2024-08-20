@@ -19,3 +19,21 @@ display: inline-block;
 margin: 16px 0;
 font-size: 20px;
 }
+.meu-idolo-imagem{
+  width: 25%;
+}
+.idolo{
+  background-image: linear-gradient(rgb(118, 3, 240),#7016f880);
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+padding: 24px 0;
+}
+
+.idolo-div-conteudo{
+  width: 35%;
+}
+.idolo{
+  padding: 24px 0;
+}
